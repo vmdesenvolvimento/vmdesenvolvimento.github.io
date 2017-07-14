@@ -1,14 +1,9 @@
-# Creative Theme for Jekyll
+# Sitda da VM Desenvolvimento & Design
 
-A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
+Implementado com o template [Creative Theme](http://startbootstrap.com/template-overviews/creative/) da [Start 
+Bootstrap](http://startbootstrap.com).
 
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
-The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
+Apresenta os trabalhos realizados, equipe e o que a VM Desenvolvimento & Design pode oferecer a seus clientes.
 
-See it live in action at <https://volny.github.io/creative-theme-jekyll/>
-
-## To use the Creative Theme template in your project
-
-- Start by adding your info in `_config.yml`
-- In `_layouts/front.html` reorder or remove section as you prefer.
-
+Muito além do código, a VM Desenvolvimento & Design se propõem com soluções em TI e Design Gráfico gerar valor ao 
+cliente.
