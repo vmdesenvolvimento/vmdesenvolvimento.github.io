@@ -4,6 +4,7 @@
 
 h1 {
     text-align: center;
+    font-size: 35px;
     font-weight: 700;
 }
 
@@ -83,7 +84,7 @@ h1 {
 /*Customizações Gerais*/
 
 .hr_custom {
-    border: #e65100 2px solid;
+    border: #e65100 1px solid;
     width: 100px;
     display: block;
     margin: 0 auto;
