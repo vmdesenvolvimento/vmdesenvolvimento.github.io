@@ -1,0 +1,92 @@
+.degrade {
+    background: linear-gradient(131.26deg, #7986cb 30%, #1a237e 100%);
+}
+
+h1 {
+    text-align: center;
+    font-weight: 700;
+}
+
+.jumbotron p {
+    width: 80%;
+    margin-left: 10%;
+}
+
+/* Configuração da seção equipe*/
+
+.tabela-equipe {
+    padding: 0 0 40px 0;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    text-align: center;
+    background-color: #fff;
+    border: 1px solid #f1f1f1;
+
+}
+
+/*configuração Serviços*/
+
+.icone_custom {
+    font-size: 80px;
+    padding: 10px 5px;
+    color: #1a237e;
+}
+
+.tabela-equipe .equipe-detalhe h2 {
+    font-size: 26px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    background-color: #f1f1f1;
+    padding: 30px 0;
+}
+
+.tabela-equipe .equipe-detalhe span {
+    display: block;
+    font-size: 40px;
+    font-weight: 400;
+    color: #4c465f;
+    margin-bottom: 20px;
+}
+
+.tabela-equipe .equipe-detalhe ul {
+    margin-bottom: 35px;
+    padding: 0 !important;
+}
+
+.tabela-equipe .equipe-detalhe ul li {
+    padding: 10px;
+    font-size: 15px;
+    border-bottom: 1px dotted #f1f1f1;
+    list-style: none;
+}
+
+.btn-equipe {
+    border: 1px solid #ff3859;
+    background-color: #ff3859;
+    position: relative;
+    color: #fff;
+    z-index: 1;
+    border-radius: 10px;
+}
+
+.btn-equipe:hover {
+    color: #fff;
+    background-color: #4c465f;
+    border-color: #4c465f;
+    transition: all .50s ease-in-out;
+    -moz-transition: all .50s ease-in-out;
+    -webkit-transition: all .50s ease-in-out;
+}
+
+/*Customizações Gerais*/
+
+.hr_custom {
+    border: #e65100 2px solid;
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
